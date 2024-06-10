@@ -1,0 +1,11 @@
+{
+  "name": "freq-cnt_mult-point",
+  "version": "1.0.0",
+  "main": "average-pair.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Marrow",
+  "license": "ISC",
+  "description": ""
+}
